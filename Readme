@@ -1,0 +1,19 @@
+Amazon Sales and Products Dashboard
+This Amazon Power BI Dashboard provides a comprehensive overview of sales performance, product details, and inventory insights for Amazon sellers. Built with a user-friendly interface, this dashboard is designed for e-commerce professionals to track key business metrics, monitor sales trends, and analyze product performance across different regions and categories.
+
+Features:
+Sales Overview: View overall sales metrics such as total revenue, units sold, and seller counts.
+Sales Breakdown: Analyze sales data by state, city, and month with clear visual charts.
+Product Insights: Explore a detailed product catalog with interactive visuals, showcasing product categories, names, and associated sales performance.
+Status Filtering: Filter sales data based on the order status (e.g., shipped, delivered, cancelled).
+Interactive Visualizations: Drill down into sales and product data to discover trends and performance across time and geography.
+Use Case:
+This dashboard is ideal for Amazon sellers, business analysts, or e-commerce managers who want to:
+
+Track sales across different regions and cities.
+Monitor sales trends over time.
+Manage inventory and optimize product performance.
+How to Use:
+Open the .pbix file in Power BI Desktop.
+Navigate through different sections: Overview, Products, and Product View.
+Use the interactive filters and visualizations to explore sales and product data.
